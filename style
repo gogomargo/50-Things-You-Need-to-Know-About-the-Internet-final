@@ -109,9 +109,8 @@ main {
 
 
 .title-items-container {
-
   display: inline-flex;
-
+  flex: 0 0 auto;
 }
 
 .title {
