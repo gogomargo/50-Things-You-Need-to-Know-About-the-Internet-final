@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Portfolio</title>
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,600,800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="style.css">
+  </head>
+
+  <body>
+
+<div class="banner">
+
+  <header class="header">
+    <div class="logo-container">
+      <a href="index.html">
+      <img src="links/logo.png" alt="Pugach creative studio logo" width="125">
+      </a>
+    </div class="logo-container">
+
+
+    <nav class="menu">
+      <ul>
+        <li><a href="index.html">home</a>
+        <li><a href="services.html">services</a>
+        <li><a class="current" href="portfolio.html">portfolio</a>
+        <li><a href="contact.html">contact</a>
+      </ul>
+    </nav>
+
+  </header>
+</div>
+
+<main>
+  <div class="title-items-container">
+    <div class="title">
+      <h1>PORTFOLIO</h1>
+    </div>
+
+    <div class="items-container">
+
+      <div class="business-projects">
+        <h2>Business Projects</h2>
+        <p>At Pugach. Creative Studio we are passionate about Brand Development, Design and Art in all its manifestations. Today we are fast growing branding agency working with Swiss and international client on their visual representation. </p>
+      </br></br>
+
+        <div class="img-txt-container">
+          <!-- img-txt-container -->
+          <div class="img-container">
+            <!-- img-container -->
+            <img src="links/project1.png" alt="project showcase" width="350px" />
+          </div class="img-container">
+
+          <div class="txt-container">
+            <!-- txt-container -->
+            <h3>ON Research</h3>
+            <h4>onresearch.ch</h4>
+            <p> Brading of ON Research - a platform which combines the research activities of EU Business School, including its academic journal, research projects, conferences, events.
+            </p>
+          </div class="txt-container">
+        </div class="img-txt-container">
+
+        <div class="img-txt-container">
+          <!-- img-txt-container -->
+          <div class="img-container">
+            <!-- img-container -->
+            <img src="links/project2.png" alt="project showcase" width="350px" />
+          </div class="img-container">
+
+          <div class="txt-container">
+            <!-- txt-container -->
+            <h3>The Coffee Project</h3>
+            <h4>thecoffeeproject.ch</h4>
+            <p>Design, creation and monitoring of company’s e-commerce website. Design and creation of branded items for the company for internal use and retail. Managing collaborations and ensuring uniform brand style across all communication means.
+            </p>
+          </div class="txt-container">
+        </div class="img-txt-container">
+
+        <div class="img-txt-container">
+          <!-- img-txt-container -->
+          <div class="img-container">
+            <!-- img-container -->
+            <img src="links/project3.png" alt="project showcase" width="350px" />
+          </div class="img-container">
+
+          <div class="txt-container">
+            <!-- txt-container -->
+            <h3>Bad Hunter</h3>
+            <h4><a href="www.badhunter.ch ">badhunter.ch</a></h4>
+            <p>Design, development & support of websites for all company’s restaurants, creation of marketing promotional material.
+            </p>
+          </div class="txt-container">
+        </div class="img-txt-container">
+
+      </div>
+
+      <div class="art-projects">
+        <h2>Art Projects</h2>
+        <p>Swiss and international companies trust us with both business and creative projects. Explore our potfolio to learn more.</p>
+
+        <div class="art-pieces">
+
+        <div class="art-piece">
+          <img src="links/art1.jpg" alt="graphic design icon" >
+        </div>
+
+        <div class="art-piece">
+          <img src="links/art2.jpg" alt="Photo and Video icon" >
+        </div>
+
+        <div class="art-piece">
+          <img src="links/art3.jpg" alt="web development icon" >
+        </div>
+
+        <div class="art-piece">
+          <img src="links/art4.jpg" alt="graphic design icon" >
+        </div>
+
+        <div class="art-piece">
+          <img src="links/art5.jpg" alt="Photo and Video icon" >
+        </div>
+
+        <div class="art-piece">
+          <img src="links/art6.jpg" alt="web development icon" >
+        </div>
+
+      </div>
+</br>
+      <div class="button-medium">
+        <a href="contact.html">Contact Us</a>
+      </div>
+
+      </div>
+
+
+    </div>
+  </div>
+</main>
+
+<footer>
+  <p>Pugach. Creative Studio</p>
+</footer>
+
+  </body>
+</html>
